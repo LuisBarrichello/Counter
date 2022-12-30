@@ -17,7 +17,7 @@ A metodologia aplicada tbm é mesma do Color Flipper(LINK DEPLOY) de ver os tuto
 
 ## Deploy
 
-* ["Counter"](https://luisbarrichello-counter.netlify.app/) 
+* [Counter](https://luisbarrichello-counter.netlify.app/) 
 
 
 ## Contato:
